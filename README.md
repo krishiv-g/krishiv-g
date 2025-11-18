@@ -27,14 +27,13 @@ I'm a developer who loves exploring **Linux**, **Node.js**, **React.js**, **Pyth
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png" alt="Ethereum"></code>
 
 <!-- Steem logo enlarged to 3x -->
-<code><img height="60" src="https://cryptologos.cc/logos/steem-steem-logo.png" alt="Steem"></code>
+<code><img height="20" src="https://cryptologos.cc/logos/steem-steem-logo.png" alt="Steem"></code>
 
 <code><img height="20" src="https://banner2.cleanpng.com/20181106/vig/kisspng-bitshares-cryptocurrency-vector-graphics-computer-5be1a6c3878cb9.0578747415415149475552.jpg" alt="Bitshares"></code>
 
 ### Connect with me:
 
-[<img align="left" alt="Steemit" width="22px" src="https://github.com/krishiv-g/krishiv-g/blob/a1d1ea60506bced6059da260e4570299438f4070/icon-steemit-darkblue.png" />](https://steemit.com/@krishiv-g)
-
+[<img align="left" alt="Steemit" width="66px" src="https://github.com/krishiv-g/krishiv-g/blob/a1d1ea60506bced6059da260e4570299438f4070/icon-steemit-darkblue.png" />](https://steemit.com/@krishiv-g)
 <br />
 
 ### GitHub Stats:
