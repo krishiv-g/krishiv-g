@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Krishiv</h1>
-<h3 align="center">A passionate developer intrigued by the wonders of Blockchain Technology</h3>
+<h3 align="center">A developer diving deep into the world of Blockchain Technology</h3>
 
 <p align="center">
   <a href="https://github.com/krishiv-g"><img src="https://komarev.com/ghpvc/?username=krishiv-g&label=Profile%20views&color=0e75b6&style=flat" alt="krishiv-g" /></a>
@@ -7,19 +7,14 @@
 
 ---
 
-I'm a developer with a keen interest in **Linux**, **Node.js**, **React.js**, **Python**, and **Solidity**. I'm fascinated by the endless possibilities of blockchain technologies like **Solana**, **Steem**, **Bitshares**, and **Ethereum**, and I'm constantly exploring and learning something new every day.
+I'm a developer who loves exploring **Linux**, **Node.js**, **React.js**, **Python**, and **Solidity**. Blockchain fascinates me — especially technologies like **Solana**, **Steem**, **Bitshares**, and **Ethereum**. I enjoy experimenting, building, and learning something new every single day.
 
-- 🔭 I’m currently working on **various blockchain projects**.
-
-- 🌱 I’m currently learning **advanced Solidity patterns** and **exploring Solana development**.
-
-- 👯 I’m looking to collaborate on **open-source projects** related to blockchain.
-
-- 💬 Ask me about **Node.js, React, blockchain technologies**, and **how to contribute to open source**.
-
-- 📫 How to reach me: **[Insert your email or LinkedIn profile here]**
-
-- ⚡ Fun fact: **I believe blockchain has the power to revolutionize the world, and I want to be part of that revolution.**
+- 🔭 Currently working on **multiple blockchain-focused projects**  
+- 🌱 Learning **advanced Solidity patterns** and diving deeper into **Solana development**  
+- 👯 Interested in collaborating on **open-source blockchain ecosystems**  
+- 💬 Ask me anything about **Node.js, React, Solidity, blockchain protocols**, or **contributing to open source**  
+- 📫 Reach me at: **[Insert your email or preferred contact here]**  
+- ⚡ Fun fact: **I genuinely believe blockchain can reshape the future — and I want to help build that future.**
 
 ### Languages and Tools:
 
@@ -30,13 +25,15 @@ I'm a developer with a keen interest in **Linux**, **Node.js**, **React.js**, **
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png" alt="Solidity"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/solana/solana.png" alt="Solana"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png" alt="Ethereum"></code>
-<code><img height="20" src="https://cryptologos.cc/logos/steem-steem-logo.png" alt="Steem"></code>
+
+<!-- Steem logo enlarged to 3x -->
+<code><img height="60" src="https://cryptologos.cc/logos/steem-steem-logo.png" alt="Steem"></code>
+
 <code><img height="20" src="https://banner2.cleanpng.com/20181106/vig/kisspng-bitshares-cryptocurrency-vector-graphics-computer-5be1a6c3878cb9.0578747415415149475552.jpg" alt="Bitshares"></code>
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" />](https://linkedin.com/in/krishiv-g)
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/krishiv-g/krishiv-g/blob/a1d1ea60506bced6059da260e4570299438f4070/icon-steemit-darkblue.png" />](https://steemit.com/@krishiv-g)
+[<img align="left" alt="Steemit" width="22px" src="https://github.com/krishiv-g/krishiv-g/blob/a1d1ea60506bced6059da260e4570299438f4070/icon-steemit-darkblue.png" />](https://steemit.com/@krishiv-g)
 
 <br />
 
@@ -46,4 +43,4 @@ I'm a developer with a keen interest in **Linux**, **Node.js**, **React.js**, **
 
 ---
 
-I'm always open to interesting conversations and collaboration on projects that aim to make a positive impact. Let's connect and build something amazing together.
+I’m always up for conversations, ideas, and collaborations — especially those aiming to push blockchain forward. Feel free to reach out anytime and let’s build something awesome together.
