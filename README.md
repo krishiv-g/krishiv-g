@@ -36,7 +36,7 @@ I'm a developer with a keen interest in **Linux**, **Node.js**, **React.js**, **
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" />](https://linkedin.com/in/krishiv-g)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />](https://twitter.com/krishiv-g)
+[<img align="left" alt="Twitter" width="22px" src="https://github.com/krishiv-g/krishiv-g/blob/a1d1ea60506bced6059da260e4570299438f4070/icon-steemit-darkblue.png" />](https://steemit.com/@krishiv-g)
 
 <br />
 
